@@ -1,0 +1,15 @@
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\bin\Debug\net6.0\Labsheet_1.exe
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\bin\Debug\net6.0\Labsheet_1.deps.json
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\bin\Debug\net6.0\Labsheet_1.runtimeconfig.json
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\bin\Debug\net6.0\Labsheet_1.dll
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\bin\Debug\net6.0\Labsheet_1.pdb
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\obj\Debug\net6.0\Labsheet_1.csproj.AssemblyReference.cache
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\obj\Debug\net6.0\Labsheet_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\obj\Debug\net6.0\Labsheet_1.AssemblyInfoInputs.cache
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\obj\Debug\net6.0\Labsheet_1.AssemblyInfo.cs
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\obj\Debug\net6.0\Labsheet_1.csproj.CoreCompileInputs.cache
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\obj\Debug\net6.0\Labsheet_1.dll
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\obj\Debug\net6.0\refint\Labsheet_1.dll
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\obj\Debug\net6.0\Labsheet_1.pdb
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\obj\Debug\net6.0\Labsheet_1.genruntimeconfig.cache
+D:\2nd year 2nd sem\BP ERP\Labsheet_1\Labsheet_1\obj\Debug\net6.0\ref\Labsheet_1.dll
